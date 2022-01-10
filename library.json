@@ -5,13 +5,13 @@
     "keywords": "MPU9250, IMU, 9DOF, Motion",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/SieR-VR/MPU9250"
     },
     "authors": [
         {
             "name": "SieR-VR",
             "email": "nwh63@naver.com",
-            "url": ""
+            "url": "https://github.com/SieR-VR"
         }
     ],
     "license": "MIT",
