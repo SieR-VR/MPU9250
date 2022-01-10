@@ -1,0 +1,20 @@
+{
+    "name": "MPU9250",
+    "version": "0.1.0",
+    "description": "A library for MPU9250 IMU",
+    "keywords": "MPU9250, IMU, 9DOF, Motion",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "authors": [
+        {
+            "name": "SieR-VR",
+            "email": "nwh63@naver.com",
+            "url": ""
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+}
